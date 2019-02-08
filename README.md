@@ -1,2 +1,2 @@
 # bigf0x
-## DDoS Script 
+DDoS Script 
